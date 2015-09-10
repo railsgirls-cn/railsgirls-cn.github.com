@@ -67,7 +67,7 @@ bash < <(curl -s https://raw.github.com/railsgirls/installation-scripts/master/r
 
 ## Setup for Windows
  
-下载 [Rails安装程序](http://rubyforge.org/frs/download.php/75346/railsinstaller-2.0.0.exe) 并运行它。一路点击默认选项即可完成安装。
+下载 [Rails安装程序](https://s3.amazonaws.com/railsinstaller/Windows/railsinstaller-3.1.0.exe) 并运行它。一路点击默认选项即可完成安装。
  
 您还需要用于编辑代码文件的文本编辑器。在本工作室环境下我们推荐使用免费软件Komodo Edit。
 
